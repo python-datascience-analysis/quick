@@ -1,0 +1,22 @@
+body{
+    background-color: violet;
+}
+#container{
+    margin-left: 500px;
+    margin-top:200px;
+    height:400px;
+    width: 500px;
+    display: flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:center;
+    flex-wrap: wrap;
+    background-color: transparent;
+   
+}
+
+div{
+    height: 30px;
+    width: 30px;
+    background-color:black;
+}
