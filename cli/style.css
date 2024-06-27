@@ -4,19 +4,22 @@ body{
 #container{
     margin-left: 500px;
     margin-top:200px;
-    height:400px;
-    width: 500px;
+    height:650px;
+    width: 640px;
     display: flex;
     flex-direction:row;
     align-items:center;
     justify-content:center;
     flex-wrap: wrap;
-    background-color: transparent;
+    background-color: black;
    
 }
 
 div{
-    height: 30px;
-    width: 30px;
-    background-color:black;
+    height: 6%;
+    width: 6%;
+    background-color:white;
+    border-color: rgb(216, 17, 17);
+    border-width: 10px;
+    column-gap: 1px;
 }
